@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RootInsuranceKata", "RootInsuranceKata\RootInsuranceKata.csproj", "{CC7FB58A-25B7-46D7-979A-4427CD8E0328}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RootInsuranceKataTest", "RootInsuranceKataTest\RootInsuranceKataTest.csproj", "{3EB63FF1-071B-4E75-A99E-EA5B1E1AA737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7FB58A-25B7-46D7-979A-4427CD8E0328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7FB58A-25B7-46D7-979A-4427CD8E0328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7FB58A-25B7-46D7-979A-4427CD8E0328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7FB58A-25B7-46D7-979A-4427CD8E0328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EB63FF1-071B-4E75-A99E-EA5B1E1AA737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EB63FF1-071B-4E75-A99E-EA5B1E1AA737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EB63FF1-071B-4E75-A99E-EA5B1E1AA737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EB63FF1-071B-4E75-A99E-EA5B1E1AA737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEC3D6A0-1EFE-4CA6-8893-D279692B7380}
+	EndGlobalSection
+EndGlobal

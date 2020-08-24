@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RootInsuranceKata": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\InputFile\\test.txt"
+    }
+  }
+}

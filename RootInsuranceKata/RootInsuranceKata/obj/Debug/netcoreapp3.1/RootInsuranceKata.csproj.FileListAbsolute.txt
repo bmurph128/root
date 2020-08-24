@@ -1,0 +1,15 @@
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.exe
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.deps.json
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.runtimeconfig.json
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.runtimeconfig.dev.json
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.dll
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\bin\Debug\netcoreapp3.1\RootInsuranceKata.pdb
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.csprojAssemblyReference.cache
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.Properties.Resources.resources
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.csproj.GenerateResource.cache
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.AssemblyInfoInputs.cache
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.AssemblyInfo.cs
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.csproj.CoreCompileInputs.cache
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.dll
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.pdb
+C:\Users\bmurp\OneDrive\Documents\RootInsurance\root\RootInsuranceKata\RootInsuranceKata\obj\Debug\netcoreapp3.1\RootInsuranceKata.genruntimeconfig.cache
